@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KR4ALL/static/css/main.b026d1cd.css",
+    "main.js": "/KR4ALL/static/js/main.03cbeaca.js",
+    "static/media/vector-1.png": "/KR4ALL/static/media/vector-1.1ddd7c8307901a4c5cac.png",
+    "index.html": "/KR4ALL/index.html",
+    "main.b026d1cd.css.map": "/KR4ALL/static/css/main.b026d1cd.css.map",
+    "main.03cbeaca.js.map": "/KR4ALL/static/js/main.03cbeaca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b026d1cd.css",
+    "static/js/main.03cbeaca.js"
+  ]
+}
