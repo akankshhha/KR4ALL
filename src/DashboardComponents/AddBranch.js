@@ -12,7 +12,7 @@ const AddBranch = () => {
         <div className="row my-5">
             <h6>Unit Details</h6>
             <div className="sameLine d-flex">
-            <div className="my-select-container ">
+            <div className="my-select-container-branch ">
                 <Select className='antd-select-statusCard'
                         placeholder="SUnit Organization"
                         size="large"
@@ -23,7 +23,7 @@ const AddBranch = () => {
                     <Option value="Unit 2">Unit 2</Option>
                 </Select>
             </div>
-              <div className="my-select-container ms-4">
+              <div className="my-select-container-branch ms-4">
                 <Select className='antd-select-statusCard'
                         placeholder="Branch Name"
                         size="large"
@@ -39,7 +39,7 @@ const AddBranch = () => {
         <div className="row my-5">
             <h6>Branch Address</h6>
             <div className="sameLine d-flex">
-              <div className="my-select-container">
+              <div className="my-select-container-branch">
                 <Select className='antd-select-statusCard'
                         placeholder="Addresss Line 1"
                         size="large"
@@ -50,7 +50,7 @@ const AddBranch = () => {
                     <Option value="Unit 2">Unit 2</Option>
                 </Select>
             </div>
-              <div className="my-select-container ms-4">
+              <div className="my-select-container-branch ms-4">
                 <Select className='antd-select-statusCard'
                         placeholder="Addresss Line 2"
                         size="large"
@@ -61,7 +61,7 @@ const AddBranch = () => {
                     <Option value="Unit 2">Unit 2</Option>
                 </Select>
             </div>
-              <div className="my-select-container ms-4">
+              <div className="my-select-container-branch ms-4">
                 <Select className='antd-select-statusCard'
                         placeholder="Postal Code"
                         size="large"
@@ -74,7 +74,7 @@ const AddBranch = () => {
             </div>
             </div>
             <div className="sameLine d-flex mt-3">
-              <div className="my-select-container">
+              <div className="my-select-container-branch">
                 <Select className='antd-select-statusCard'
                         placeholder="City"
                         size="large"
@@ -85,7 +85,7 @@ const AddBranch = () => {
                     <Option value="Unit 2">Unit 2</Option>
                 </Select>
             </div>
-              <div className="my-select-container ms-4">
+              <div className="my-select-container-branch ms-4">
                 <Select className='antd-select-statusCard'
                         placeholder="State"
                         size="large"
@@ -96,7 +96,7 @@ const AddBranch = () => {
                     <Option value="Unit 2">Unit 2</Option>
                 </Select>
             </div>
-              <div className="my-select-container ms-4">
+              <div className="my-select-container-branch ms-4">
                 <Select className='antd-select-statusCard'
                         placeholder="Country"
                         size="large"
@@ -112,7 +112,7 @@ const AddBranch = () => {
         <div className="row my-5">
             <h6>Branch Admin</h6>
             <div className="sameLine d-flex">
-              <div className="my-select-container">
+              <div className="my-select-container-branch">
                 <Select className='antd-select-statusCard'
                         placeholder="Name"
                         size="large"
@@ -123,7 +123,7 @@ const AddBranch = () => {
                     <Option value="Unit 2">Unit 2</Option>
                 </Select>
             </div>
-              <div className="my-select-container ms-4">
+              <div className="my-select-container-branch ms-4">
                 <Select className='antd-select-statusCard'
                         placeholder="Mobile Number "
                         size="large"
@@ -134,7 +134,7 @@ const AddBranch = () => {
                     <Option value="Unit 2">Unit 2</Option>
                 </Select>
             </div>
-            <div className="my-select-container ms-4">
+            <div className="my-select-container-branch ms-4">
                 <Select className='antd-select-statusCard'
                         placeholder="Email"
                         size="large"

@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { UserOutlined, VideoCameraFilled, PhoneFilled } from '@ant-design/icons';
-import { Avatar } from 'antd';
 import {Link} from 'react-router-dom'
 import PastAppointments from './PastAppointments';
 import { profile } from '../Data'
@@ -17,8 +16,8 @@ const DoctorQueue = () => {
            <img src={require("../images/profilePic.png") } alt="" />
           </div>
           <div className="col-lg-11 d-block profileInfo">
-            <h5 className=''>{profile.name}</h5> 
-            <div className="d-flex">
+            <h5 className='ps-2 pt-1 mb-0'>{profile.name}</h5> 
+            <div className="d-flex ps-2 ">
               <p className='px-1'>{profile.id}  </p>
               <p className="ps-4 pe-1">{profile.age} •   </p>
               <p className="px-1">{profile.gender} •   </p>

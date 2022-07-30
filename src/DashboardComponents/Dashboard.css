@@ -63,12 +63,12 @@
 .infoCard .graphCard {
     font-size: 1rem;
 }
-.infoCard, .graphCard .cardHeader {
+.infoCard .cardHeader, .graphCard .cardHeader {
     border-bottom: 1px solid #c9c9c9;
     text-align: center;
     
 }
-.infoCard, .graphCard  .cardHeading, .cardHeader  {
+.infoCard .cardHeading, .graphCard  .cardHeading, .cardHeader  {
     color: #adadad;
     font-size: 18px;
 }

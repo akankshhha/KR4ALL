@@ -5,8 +5,11 @@ h3, h6 {
 .addBranchContainer {
     border-bottom: 2px solid #c0c0c0;
 }
-.my-select-container {
+.my-select-container-branch {
     width: 16rem;
+    border-radius: 8px;
+    height: 3rem;
+    border: 1px solid #c0c0c0;
 }
 .buttons {
     text-align: right;
