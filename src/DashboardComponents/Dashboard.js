@@ -71,7 +71,7 @@ const Dashboard = () => {
             {active === "thirdComponent" && <DoctorQueue />}
             {active === "fourthComponent" && <AddBranch />}
           
-            <Route path="/dashboard/configuration/addBranch" component={AddBranch} ></Route>
+//             <Route path="/dashboard/configuration/addBranch" component={AddBranch} ></Route>
           
           </Content>
         </Layout>
