@@ -51,13 +51,13 @@ const Dashboard = () => {
                 <Menu.Item key="2" onClick={() => setActive("secondComponent")}>
                     <UsergroupAddOutlined/>
                     <span>Doctor Queue</span>
-                    <Link to="/queue"></Link>
+//                     <Link to="/queue"></Link>
                 </Menu.Item>
 
                 <Menu.Item key="3"  onClick={() => setActive("thirdComponent")}>
                     <CalendarOutlined />
                     <span>Appointments</span>
-                    <Link to="/appointments"></Link>
+//                     <Link to="/appointments"></Link>
                 </Menu.Item>   
 
                 <img src="" style={{marginTop : '15rem'}} /> 
