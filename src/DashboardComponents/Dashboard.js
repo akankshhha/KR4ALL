@@ -70,9 +70,7 @@ const Dashboard = () => {
             {active === "secondComponent" && <Appointments />}
             {active === "thirdComponent" && <DoctorQueue />}
             {active === "fourthComponent" && <AddBranch />}
-             <Route exact path = "/queue" component={DoctorQueue}></Route>
-          
-//             <Route path="/dashboard/configuration/addBranch" component={AddBranch} ></Route>
+           
           
           </Content>
         </Layout>
