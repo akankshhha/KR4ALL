@@ -1,0 +1,15 @@
+.secondLine{
+    border-bottom: 2px solid rgb(192, 192, 192);
+}
+.addBtn-appointments {
+    border: 1px solid #FC6964;
+    color: #FC6964;
+    border-radius: 8px;
+}
+.antd-select{
+    width: 11rem;
+    border-radius: 8px;
+}
+.ant-table-thead .ant-table-cell {
+    background-color: #F0F4FD;
+  }

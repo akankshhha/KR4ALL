@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color:  #203765;
+    width:100%;
+    margin: 0;
+    height: 15rem;
+}
+
+.welcomeUsertxt {
+    color: rgb(255, 255, 255);
+    padding: 2rem 0 0 4rem;
+    font-weight: 300;
+   
+}
+.userType {
+    color: rgb(255, 255, 255);
+    padding-left: 4rem;
+}
+
+.welcomeUsertxt .username {
+    font-weight: 600;
+}

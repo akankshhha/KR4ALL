@@ -1,0 +1,17 @@
+.headingSection {
+    background-color: #f0f6fe;
+}
+.linkSection{
+padding-right: 6rem;
+}
+.link {
+    text-decoration: none;
+    color: #7f7f7f;
+    margin-right: 3rem;
+    font-weight: 600;
+}
+.link:focus,
+.link:hover {
+    color: #FC6964;
+    border-bottom:4px solid #FC6964;
+}

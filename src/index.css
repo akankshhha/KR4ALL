@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding:  0;
+  box-sizing: border-box;
+  
+}
+.container-fluid, .left-side, .login-side { height: 100vh; }
+  
+.left-side { background-color: #f0f4fc; }
+  
+.login-side .login-module {
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  display: grid;
+  place-items: center;
+}
+.login-module input{
+  padding: 0.8rem 2rem 0.8rem 1.5rem;
+  width: 20rem;
+  border:1px solid rgb(207, 215, 227);
+  border-radius: 6px;
+  margin: 0.8rem;
+}
+.signIn-txt, .title { color: #29375f; }
+
+.signIn-btn {
+  width: 20rem;
+  padding: 0.7rem;
+  border-radius: 8px;
+  background-color: #fc6964;
+  color: #f0f4fc;
+  font-size: 1.1rem;
+  border: none;
+}
+.my-select-container {
+  border:1px solid rgb(207, 215, 227);
+}

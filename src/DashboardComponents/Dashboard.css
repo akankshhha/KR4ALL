@@ -1,0 +1,111 @@
+.welcomeUsertxt {
+    color: rgb(255, 255, 255);
+    padding: 2rem 0 0 4rem;
+    font-weight: 300;
+    
+}
+.welcomeUsertxt .username {
+    font-weight: 600;
+}
+.site-layout .site-layout-background .userType {
+    padding-left: 4rem;
+}
+.fileIcon {
+    width: 1.4rem;
+    height:  1.8rem;
+}
+
+.options {
+    background-color: #fff;
+    margin-top: -4rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 5px 5px #adadad;
+    z-index: 1;
+    
+}
+.options h6 {
+    color: #29375F;
+}
+
+.my-select-container {
+    border-radius: 8px;
+    height: 3rem;
+}
+.my-select-container .antd-select-statusCard {
+    
+    width: 12rem;
+   
+}
+.displayInfoCard {
+    background-color: #f0f6fe;
+    border-bottom-left-radius: 0.2rem;  border-bottom-right-radius: 0.2rem;
+    margin-top: 0.5rem;
+    overflow: hidden;
+    border: 1px solid rgb(219, 219, 219);
+    
+}
+.infoCard {
+    border: 1px solid #c9c9c9; /* for information cards */
+    border-radius: 8px;
+    background-color: #fff;
+    width: 40rem;
+}
+.graphCard {
+    border: 1px solid #c9c9c9; /* for graph cards */
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.infoCard .contentCard { 
+    padding: 5rem;
+    font-size: 1rem;
+}
+.infoCard .graphCard {
+    font-size: 1rem;
+}
+.infoCard, .graphCard .cardHeader {
+    border-bottom: 1px solid #c9c9c9;
+    text-align: center;
+    
+}
+.infoCard, .graphCard  .cardHeading, .cardHeader  {
+    color: #adadad;
+    font-size: 18px;
+}
+.cardConfig {
+    margin-top: -12rem;
+  
+}
+.configurationCard {
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #c9c9c9;
+}
+.configurationCard .addLogo {
+    background-color: #f0f6fe;
+    width: 7rem;
+    border-radius: 5px;
+}
+.addBtn {
+   
+    background: transparent;
+}
+.activity {
+    border-top: 1px solid  rgb(219, 219, 219);
+}
+.activityTxt {
+    padding: 1rem 0 1.5rem 5.5rem;
+    color: #999999;
+    font-size: 1.2rem;
+}
+.notificationTxt {
+    font-size: 14px;
+}
+.notificationTime {
+    color: #c1c0c0;
+}
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    border-right: 5px solid #FC6964;
+    background-color: #364b74 !important;
+}
+

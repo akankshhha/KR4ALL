@@ -1,0 +1,29 @@
+h3, h6 {
+    color: #29375F;
+}
+
+.addBranchContainer {
+    border-bottom: 2px solid #c0c0c0;
+}
+.my-select-container {
+    width: 16rem;
+}
+.buttons {
+    text-align: right;
+}
+.addBranchBtn {
+    width: 12rem;
+    padding: 0.7rem;
+    border-radius: 8px;
+    background-color: #fc6964;
+    color: #f0f4fc;
+    font-size: 1.1rem;
+    border: none;
+}
+.cancelBtn {
+    width: 12rem;
+    padding: 0.7rem;
+    border-radius: 8px;
+    border: 1px solid #29375F;
+    color: #69738f;
+}
