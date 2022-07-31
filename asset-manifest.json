@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KR4ALL/static/css/main.aef27beb.css",
-    "main.js": "/KR4ALL/static/js/main.4e37216d.js",
+    "main.js": "/KR4ALL/static/js/main.3c79b5a0.js",
     "static/media/vector-1.png": "/KR4ALL/static/media/vector-1.1ddd7c8307901a4c5cac.png",
     "index.html": "/KR4ALL/index.html",
     "main.aef27beb.css.map": "/KR4ALL/static/css/main.aef27beb.css.map",
-    "main.4e37216d.js.map": "/KR4ALL/static/js/main.4e37216d.js.map"
+    "main.3c79b5a0.js.map": "/KR4ALL/static/js/main.3c79b5a0.js.map"
   },
   "entrypoints": [
     "static/css/main.aef27beb.css",
-    "static/js/main.4e37216d.js"
+    "static/js/main.3c79b5a0.js"
   ]
 }
