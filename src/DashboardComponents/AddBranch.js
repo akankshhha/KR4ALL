@@ -14,7 +14,7 @@ const AddBranch = () => {
             <div className="sameLine d-flex">
             <div className="my-select-container-branch ">
                 <Select className='antd-select-statusCard'
-                        placeholder="SUnit Organization"
+                        placeholder="Unit Organization"
                         size="large"
                         bordered={false}
                         style={{ width: 250 }}
